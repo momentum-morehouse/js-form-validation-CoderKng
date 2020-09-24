@@ -1,7 +1,7 @@
 # Validating a Form
 
 ## Directions
-
+// resources and tools 
 Look at `form.html`. It contains a form for pre-paid parking. It includes some styling already done for you in `style.css`.
 
 You will edit this HTML and write JavaScript to validate this form. When the "Make Reservation" button is clicked, you should check the values of each field and make sure they are valid. If not, you have to visually alert the user to that fact.
